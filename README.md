@@ -17,3 +17,5 @@ The project follows the standard React application structure:
 
 Contributions to this project are welcome.
 If you find any issues or have suggestions for improvements feel free to add on it
+
+ https://levina23.github.io/Bot-battle/
